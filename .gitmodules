@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "breakfast"]
+	path = breakfast
+	url = https://github.com/cran/breakfast
+	shallow = true
+	registered = true
+[submodule "LogConcDEAD"]
+	path = LogConcDEAD
+	url = https://github.com/cran/LogConcDEAD
+	shallow = true
+	registered = true
+[submodule "not"]
+	path = not
+	url = https://github.com/cran/not
+	shallow = true
+	registered = true
+[submodule "scar"]
+	path = scar
+	url = https://github.com/cran/scar
+	shallow = true
+	registered = true
+[submodule "Sshaped"]
+	path = Sshaped
+	url = https://github.com/cran/Sshaped
+	shallow = true
+	registered = true
