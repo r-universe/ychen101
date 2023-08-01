@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "breakfast"]
-	path = breakfast
-	url = https://github.com/cran/breakfast
 [submodule "LogConcDEAD"]
 	path = LogConcDEAD
 	url = https://github.com/cran/LogConcDEAD
+[submodule "Sshaped"]
+	path = Sshaped
+	url = https://github.com/cran/Sshaped
+[submodule "breakfast"]
+	path = breakfast
+	url = https://github.com/cran/breakfast
 [submodule "not"]
 	path = not
 	url = https://github.com/cran/not
 [submodule "scar"]
 	path = scar
 	url = https://github.com/cran/scar
-[submodule "Sshaped"]
-	path = Sshaped
-	url = https://github.com/cran/Sshaped
